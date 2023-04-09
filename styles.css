@@ -5,12 +5,17 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-inline: 200px;
+    margin-inline: 250px;
+}
+
+.image {
+    width: 610px;
+    height: 150px;
 }
 
 img {
-    width: 610px;
-    height: 150px;
+    width: 750px;
+    height: 300px;
 }
 p,
 li,
